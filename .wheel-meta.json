@@ -1,0 +1,22 @@
+{
+  "wheel_id": 432,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-102",
+  "project": "retaining-walls-sydney-seasonal-timing-5893d2ec43069875a3d6f913",
+  "parent_t1_ref": "retainingwallssydney-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining walls sydney seasonal timing",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-sydney-seasonal-timing-5893d2ec43069875a3d6f913/",
+  "tier": "T2",
+  "writeback_nonce": "6c7049450bba0c50",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallssydney-150/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
